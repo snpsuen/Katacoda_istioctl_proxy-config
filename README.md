@@ -1,0 +1,1 @@
+# Katacoda_istioctl_proxy-config
